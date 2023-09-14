@@ -1,0 +1,3 @@
+print("My name is Juliana")
+print("I love computer science")
+input("What is your name? ")
